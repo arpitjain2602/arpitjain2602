@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey I'm Arpit 👋</h1>
 <h3 align="center">I am pursuing my Masters in Business Analytics from UCLA Anderson 👾</h3>
-<h3 align="center">Product Management | Data Science | Startup</h3>  
+<h3 align="center">Product Management | Data Science | Startups</h3>  
 
 <p align="center">
 <a href="https://twitter.com/arpit2602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arpit2602" height="20" width="20" /></a>
@@ -24,8 +24,14 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arpit2602" height="20" width="20" /></a>
 </p> -->
 
-<p align="left"> <a href="https://twitter.com/arpit2602" target="blank"><img src="https://img.shields.io/twitter/follow/arpit2602?logo=twitter&style=for-the-badge" alt="arpit2602" /></a> </p>
+<p align="center"> <a href="https://twitter.com/arpit2602" target="blank"><img src="https://img.shields.io/twitter/follow/arpit2602?logo=twitter&style=for-the-badge" alt="arpit2602" /></a> </p>
 
+- 😄 Pronouns: he/him/his
+- 💬 Ask me about: Launching MVPs, Conducting Proof-of-Concepts, Artificial Intelligence, Supply Chain
+- 👯 I’m looking to collaborate on products solving for millions of users
+- 🌱 I’m currently learning about product management
+- 📫 Reach me @ arpit2602@gmail.com
+- 🔭 Checkout Python wrapper package for bayesian optimization for machine learning models: https://pypi.org/project/baayes/
 
 
 
