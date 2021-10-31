@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Product Management | Data Science | Startups</h3>  
 
 <p align="center">
-<a href="https://twitter.com/arpit2602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arpit2602" height="20" width="20" /></a>
+<a href="https://twitter.com/arpit2602" target="blank"><img align="center" src="https://www.iconpacks.net/free-icon/twitter-135.html" alt="arpit2602" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/jainarpit26/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpit2602" height="20" width="20" /></a>
 <!-- <a href="https://medium.com/@pratikbhavsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="arpit2602" height="20" width="20" /></a>
 <a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arpit2602" height="20" width="20" /></a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://twitter.com/arpit2602" target="blank"><img src="https://img.shields.io/twitter/follow/arpit2602?logo=twitter&style=for-the-badge" alt="arpit2602" /></a> </p>
 
 - 😄 Pronouns: he/him/his
-- 💬 Ask me about: Launching MVPs, Conducting Proof-of-Concepts, Artificial Intelligence, Supply Chain
+- 💬 Ask me about: Launching MVPs, Conducting Proof-of-Concepts, Artificial Intelligence, Supply Chain, Dynamic Pricing
 - 👯 I’m looking to collaborate on products solving for millions of users
 - 🌱 I’m currently learning about product management
 - 📫 Reach me @ arpit2602@gmail.com
