@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/arpit2602" target="blank"><img align="center" src="twitter-logo.svg" alt="arpit2602" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/jainarpit26/" target="blank"><img align="center" src="linkedin-logo.svg" alt="arpit2602" height="20" width="20" /></a>
 <a href="https://medium.com/@arpit-jain" target="blank"><img align="center" src="medium.svg" alt="arpit2602" height="20" width="20" /></a>
-<!-- <a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arpit2602" height="20" width="20" /></a> -->
+<a href="http://www.youtube.com/channel/UC-p1tnqv_6jaDABEPoLovqA" target="blank"><img align="center" src="youtube.svg" alt="arpit2602" height="20" width="20" /></a>
 </p>
 
 <p align="center"> <a href="https://twitter.com/arpit2602" target="blank"><img src="https://img.shields.io/twitter/follow/arpit2602?logo=twitter&style=for-the-badge" alt="arpit2602" /></a> </p>
