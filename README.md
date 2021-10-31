@@ -1,6 +1,7 @@
 <!--
 **arpitjain2602/arpitjain2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+icon list - https://www.iconpacks.net/free-icon/linkedin-logo-2430.html
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,9 +21,9 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/arpit2602" target="blank"><img align="center" src="twitter-logo.svg" alt="arpit2602" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/jainarpit26/" target="blank"><img align="center" src="linkedin-logo.svg" alt="arpit2602" height="20" width="20" /></a>
-<!-- <a href="https://medium.com/@pratikbhavsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="arpit2602" height="20" width="20" /></a>
-<a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arpit2602" height="20" width="20" /></a>
-</p> -->
+<a href="https://medium.com/@arpit-jain" target="blank"><img align="center" src="medium.svg" alt="arpit2602" height="20" width="20" /></a>
+<!-- <a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arpit2602" height="20" width="20" /></a> -->
+</p>
 
 <p align="center"> <a href="https://twitter.com/arpit2602" target="blank"><img src="https://img.shields.io/twitter/follow/arpit2602?logo=twitter&style=for-the-badge" alt="arpit2602" /></a> </p>
 
